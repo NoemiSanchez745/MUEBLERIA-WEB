@@ -19,6 +19,9 @@ Front end para una empresa de muebles:
 </table>
 </div>
 
+Instrucciones:
+Dirigirse a la rama noemi y descargar y abrirlo en cualquier editor de código
+
 Imáganes de Página de inicio:
 ![Img1](https://github.com/NoemiSanchez745/MUEBLERIA-WEB/assets/74671582/5105dd76-6f68-4e7c-8211-ec1648b6210f)
 
